@@ -1,6 +1,6 @@
 # Dependencies
-gems:                [jekyll-paginate]
-markdown:         redcarpet
+gems:             [jekyll-paginate]
+kramdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
