@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem uninstall --all
+gem 'github-pages', group: :jekyll_plugins
